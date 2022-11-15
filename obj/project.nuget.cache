@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p86ZvftLkq2h+ffRYxvcAxKDbjp0E//OF6557YwRruqqEUR+WOZOhj04kjxOEFhsfYQqtjjnCeFevYREU2vCTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Development\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\fuzzysharp\\2.0.2\\fuzzysharp.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
